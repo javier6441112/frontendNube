@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:8080';
+const API_BASE_URL = 'https://laboratorio1-tsw0.onrender.com';
 
 const productoForm = document.querySelector('#productoForm');
 const productosBody = document.querySelector('#productosBody');
